@@ -1,3 +1,15 @@
-.first-onglet {
+div {
     max-width: 500px;
+}
+
+.first-onglet {
+    background-color: blue;
+}
+
+.second-onglet {
+    background-color: rgb(4, 255, 0);
+}
+
+.third-onglet {
+    background-color: rgb(255, 60, 0);
 }
